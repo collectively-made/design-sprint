@@ -1,6 +1,6 @@
 Dear ________,
 
-Thank you for choosing thoughtbot, inc. to help you develop your product! We are excited to work with you and your team to help your business successfully grow. In order to achieve this goal, we are kicking off the project with the 5-day Product Design Sprint, a process advertised by  Google Ventures, to better understand how we can work together to create a successful product. 
+Thank you for choosing us to help you develop your product! We are excited to work with you and your team to help your business successfully grow. In order to achieve this goal, we are kicking off the project with the 5-day Product Design Sprint, a process advertised by  Google Ventures, to better understand how we can work together to create a successful product. 
 
 Before we start the design sprint, it is important to gather important research materials to save us time during the week. Please come prepared with the relevant information below! 
 
